@@ -1,0 +1,6 @@
+D:\Draw with C#\letter H\letter H\obj\Debug\letter H.csproj.CoreCompileInputs.cache
+D:\Draw with C#\letter H\letter H\bin\Debug\letter H.exe.config
+D:\Draw with C#\letter H\letter H\bin\Debug\letter H.exe
+D:\Draw with C#\letter H\letter H\bin\Debug\letter H.pdb
+D:\Draw with C#\letter H\letter H\obj\Debug\letter H.exe
+D:\Draw with C#\letter H\letter H\obj\Debug\letter H.pdb
